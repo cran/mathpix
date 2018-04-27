@@ -1,6 +1,6 @@
-9fcde963a5d956a5eef88a1582644b35 *DESCRIPTION
+afafdde433df0847655f695b3a20bc96 *DESCRIPTION
 9ae9f3e673b8dbd55224351a2f139229 *NAMESPACE
-cdfcf10f2597d9dd8d6ae4205b1a09d9 *NEWS.md
+11c244c912a4f4fbcc5164e22b20034e *NEWS.md
 42c73cb88787a77eaea85da6eb2d9df3 *R/connect.R
 f1699561c8ccfe0886d3234c4802457c *inst/extdata/eq_no_01.png
 afec36a037342ae99f2c8e9312105351 *inst/extdata/eq_no_05_screencapfixes.jpg
@@ -9,8 +9,9 @@ ec5076201fd9f4f69e7cee525ca485b3 *man/mathpix.Rd
 2ff616d199ceb27f34162954985c854e *man/mathpix_api.Rd
 bbfd87f25ead5fe11bc910c5defa6c87 *man/render_latex.Rd
 5166bb0c9675255ad07e39101022e457 *man/rmarkdown_block.Rd
+ef6d19d18b0efded1a8089ffc0542bef *tests/README.md
 c3faadc211c78b25d5f2d24f0bd6df9a *tests/testthat.R
-2e00450850a5b7904e503ef303ef5eee *tests/testthat/test_api.R
+0e8fa4f3b197f9dfd685123111bdb7af *tests/testthat/test_api.R
 f1699561c8ccfe0886d3234c4802457c *tools/eq_no_01.png
 6b59013a543721d0659afed2aab53424 *tools/eq_no_02.png
 af1b03241f7506d0ff08167a5ab6ebc1 *tools/eq_no_03_fails.jpg
